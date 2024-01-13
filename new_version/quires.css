@@ -128,11 +128,36 @@
     }     
 }
 
+
 @media only screen and (max-width: 481px){
     .nav-pills {
         max-height: 100px;
         max-width: 330px;
-    }     
+    }
+    
+    /*Timeline*/
+
+    .text-box h2{
+        font-size: 110%; 
+     }
+
+    
+     .left-container{
+        left:-27.5%;
+    }
+    
+    .right-container{
+        left: 23%;
+    }
+
+    .right-container-arrow{
+
+        border-top: 15px solid transparent;
+        border-bottom: 15px solid transparent;
+        border-right: 15px solid #ccc;
+        left: -11px;
+    }
+
 }
 
   
