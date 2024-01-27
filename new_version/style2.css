@@ -136,7 +136,7 @@ body {
 
 .photo-segment img:hover {
     transition: transform 0.5s, opacity 0.5s;
-    transform: scale(1);
+    transform: scale(0.5);
 }
 
 
