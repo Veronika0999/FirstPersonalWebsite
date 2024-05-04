@@ -1,4 +1,4 @@
-# FirstPersonalWebsite
+# First Personal Website
 
 The main goal of my initial portfolio project was to apply the basic knowledge and skills I had acquired through self-study and practical experience. It served as a platform to showcase my proficiency in web development, with a particular focus on HTML and CSS, by creating a digital portfolio of my work.
 
