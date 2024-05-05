@@ -2,6 +2,14 @@
 
 The main goal of my initial portfolio project was to apply the basic knowledge and skills I had acquired through self-study and practical experience. It served as a platform to showcase my proficiency in web development, with a particular focus on HTML and CSS, by creating a digital portfolio of my work.
 
+## Getting Started
+
+1. **Clone the Repository**: Clone this repository to your local machine using the following command:
+
+```
+git clone <repository_url>
+```
+
 ## Structure of the project
 - <code>index.html</code> - the main HTML file containing the structure of the website.
 - <code>style.css</code> - CSS file for styling the website
