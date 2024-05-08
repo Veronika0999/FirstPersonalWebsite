@@ -11,10 +11,11 @@ git clone https://github.com/Veronika0999/FirstPersonalWebsite.git
 ```
 
 ## Structure of the project
-- <code>index.html</code> - the main HTML file containing the structure of the website.
-- <code>style.css</code> - CSS file for styling the website
-- <code>script.js</code> - JavaScript file containing code for smooth scrolling on the page
-- img - directory containing images for this website
+- **assets:** This directory contains icons and images used on the website.
+- **src:** Source files of the project.
+  -  scripts: JavaScript files.
+  -  styles: CSS files for styling the website.
+  -  html: HTML files defining the structure of web pages.
 
 ## Author
 Me, Veronika.
