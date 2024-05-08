@@ -7,7 +7,7 @@ The main goal of my initial portfolio project was to apply the basic knowledge a
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
 ```
-git clone <repository_url>
+git clone https://github.com/Veronika0999/FirstPersonalWebsite.git
 ```
 
 ## Structure of the project
