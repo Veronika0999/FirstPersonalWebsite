@@ -1,0 +1,163 @@
+@media only screen and (max-width: 2560px) {
+    .findme {
+        margin-bottom: 700px;
+    }
+}
+
+
+@media only screen and (max-width: 1900px) {
+
+    .findme {
+        margin-bottom: 360px;
+    }
+
+    .photo img {
+        float: center;
+        margin-right: 25px;
+        height: 150px;
+        width: 150px;
+}
+}
+      
+
+
+@media only screen and (max-width: 815px) {
+
+    .skills li {
+        display:block;
+        padding: 10px;
+        bottom: 20px;
+        border-radius: 0%;
+        
+    }
+}
+
+
+
+@media only screen and (max-width: 750px){
+
+    /***** Gallery *****/
+    .photo-segment .col {
+        margin-left: 0;  
+    }
+
+    .photo-segment li {
+        width: 100%;
+    }
+    
+
+}
+
+@media only screen and (max-width: 730px) {
+
+    /***** Header *****/
+    .header-text {
+        width: 100%;
+        left: 0%;
+        transform: translate(0%, 0%);
+    }
+
+    .header-text h1 {
+        text-align: center;
+    }
+
+
+    .photo img {
+        float: center;
+        margin-right: 25px;
+        height: 150px;
+        width: 150px;
+}
+}
+
+
+
+@media screen and(max-width: 600px){
+
+    .timeline{
+        margin: 50px auto;
+    }
+
+    .timeline:after{
+        left: 31px;
+    }
+
+    .container{
+        width: 100%;
+        padding-left: 80px;
+        padding-right: 25px;
+    }
+
+    .text-box{
+        font-size: 13px;
+    }
+
+    .text-box small{
+        margin-bottom: 10px;
+    }
+
+    .right-container{
+        left: 0;
+    }
+
+    .left-container img, .right-container img {
+        left: 10px;
+    }
+
+    .left-container-arrow, .right-container-arrow {
+        border-right: 15px solid #fff;
+        border-left: 0;
+        left: -15px;
+    }
+}
+
+@media only screen and (max-width: 690px){
+        
+    .photo img {
+            float: center;
+            margin-right: 25px;
+            height: 150px;
+            width: 150px;
+    }
+}
+    
+@media only screen and (max-width: 605px){
+    .nav-pills {
+        max-height: 100px;
+        max-width: 470px;
+    }     
+}
+
+
+@media only screen and (max-width: 481px){
+    .nav-pills {
+        max-height: 100px;
+        max-width: 330px;
+    }
+    
+    /*Timeline*/
+
+    .text-box h2{
+        font-size: 110%; 
+     }
+
+    
+     .left-container{
+        left:-27.5%;
+    }
+    
+    .right-container{
+        left: 23%;
+    }
+
+    .right-container-arrow{
+
+        border-top: 15px solid transparent;
+        border-bottom: 15px solid transparent;
+        border-right: 15px solid #ccc;
+        left: -11px;
+    }
+
+}
+
+  
